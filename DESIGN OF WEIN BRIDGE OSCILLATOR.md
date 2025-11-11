@@ -24,9 +24,9 @@
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 <img width="1107" height="875" alt="image" src="https://github.com/user-attachments/assets/1d7e8ff1-e375-4ced-b1ef-2ec06a3cfb45" />
 
+## Result
+
+Practical frequency of Oscillation =50HZ
 
 
-Practical frequency of Oscillation =
-
-
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =100.148HZ

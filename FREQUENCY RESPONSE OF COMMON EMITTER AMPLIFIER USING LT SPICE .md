@@ -15,7 +15,7 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
-<img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/f5cb17fc-2a04-46aa-806a-74bad29c67df" />
+
 
 
 
@@ -44,5 +44,7 @@
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =**
-
+Av=2dB
 **BANDWIDTH =**
+Bw=40MHz
+

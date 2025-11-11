@@ -15,6 +15,10 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/f5cb17fc-2a04-46aa-806a-74bad29c67df" />
+
+
+
 
 
 ## MODEL GRAPH
@@ -22,12 +26,17 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
+
+
 
 ## Tabulation
+<img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/478197bb-9ad1-4836-b7a9-f506f17d0e40" />
+![WhatsApp Image 2025-11-11 at 11 09 07_ee6ceefe](https://github.com/user-attachments/assets/8059f91e-9384-4c10-b1b7-f4d50fd32aaa)
+
 
 ## Graph
 
+![WhatsApp Image 2025-11-11 at 11 09 07_c5fee2a2](https://github.com/user-attachments/assets/90209e83-d075-44e9-97a0-be0869d7c3fe)
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />

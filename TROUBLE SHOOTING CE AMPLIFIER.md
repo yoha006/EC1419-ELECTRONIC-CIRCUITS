@@ -7,7 +7,12 @@
 
 
 ## Tabulations 
+![WhatsApp Image 2025-11-20 at 21 11 41_30da991e](https://github.com/user-attachments/assets/e0721e56-60d0-4640-805f-e64fda51a9a7)
+![WhatsApp Image 2025-11-20 at 21 12 11_42144814](https://github.com/user-attachments/assets/e2263c1d-a748-49a5-9f70-4c23537e8141)
 
 ## Semilog Graph
+![WhatsApp Image 2025-11-20 at 21 11 41_21eab138](https://github.com/user-attachments/assets/c34179e2-42b1-4daf-8850-7425bbfc7c9b)
+![WhatsApp Image 2025-11-20 at 21 13 29_478558e6](https://github.com/user-attachments/assets/dad8e45a-0a66-4429-acf1-68a3d1d3c222)
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![WhatsApp Image 2025-11-20 at 21 13 29_478558e6](https://github.com/user-attachments/assets/bd38bbff-6377-4fae-8c93-45ae42df4477)
